@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+data/
+
+medi_connect.egg-info/
+output.png
